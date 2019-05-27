@@ -1,0 +1,31 @@
+body {
+  background-color: #f5eee6;
+}
+
+hr {
+  /* background-color: white; */
+  border-color: white;
+  border-style: none;
+  border-top-style: dashed;
+  border-width: 5px;
+  width: 17%;
+}
+
+h1,h3{
+  color: #c86b85;
+  text-align: center;
+}
+p,h4,th,td,li{
+  color: #52616b;
+}
+
+
+
+img {
+  border-radius: 10%;
+}
+
+
+.odd {
+  background-color: #f3d7ca;
+}
