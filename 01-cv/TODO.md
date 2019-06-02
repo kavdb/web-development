@@ -11,8 +11,6 @@
     - Data Scientist in Indonesia
     - Freelancer Indonesia
     - Buat website Solo
-    - Website murah
-    - 
 
 # Add blog section
     ## Internship in Aruba
